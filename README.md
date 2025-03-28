@@ -1,6 +1,3 @@
-![ss of demo](Screenshot%202025-03-08%20185515.png)
-![ss of demo](Screenshot%202025-03-28%20183710.png)
-![ss of demo](Screenshot%202025-03-28%20183838.png)
 # Smart Calculator
 
 Welcome to **Smart Calculator** - your intelligent companion for mathematical calculations and visual demonstrations! This is the first version of the project, built with the powerful combination of **React**, **TypeScript**, and **Vite**, with the limitless potential of **Python** opening unconventional gateways.
@@ -20,7 +17,9 @@ Welcome to **Smart Calculator** - your intelligent companion for mathematical ca
 - **Visualization**: Integrated canvas or graph rendering using JavaScript
 
 ## 📸 Screenshots
-(Add your screenshots here to showcase the interface and visual simulations.)
+![ss of demo](Screenshot%202025-03-08%20185515.png)
+![ss of demo](Screenshot%202025-03-28%20183710.png)
+![ss of demo](Screenshot%202025-03-28%20183838.png)
 
 ## 🔎 How to Run
 
